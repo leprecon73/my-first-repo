@@ -9,7 +9,7 @@ I live on planet, name Earth
 Three of my favorite books are:
 
 - *C Programming language* Kernighan, Ritchie
-- *Kings and Cabbages* O.Henry
+- *Cabbages and Kings* O.Henry
 - Writtings on the wall
 
 ### Food
