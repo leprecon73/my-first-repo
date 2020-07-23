@@ -17,7 +17,7 @@ Three of my favorite books are:
 I am on diete:
 
 1. Cherry.
-2. Aplles.
+2. Apples.
 3. 
 
 ### Contact
