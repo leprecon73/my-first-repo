@@ -18,8 +18,16 @@ I am on diete:
 
 1. Cherry.
 2. Apples.
+<<<<<<< HEAD
 3. 
+=======
+3. Fish.
+>>>>>>> update-readme
 
 ### Contact
 
 The best way to get in touch with me is write a comment here.
+<<<<<<< HEAD
+=======
+
+>>>>>>> update-readme
